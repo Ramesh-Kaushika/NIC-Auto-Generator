@@ -1,0 +1,19 @@
+.parent-class{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 500px;
+    margin: 200px 35%;
+    text-align: center;
+    border: solid black;
+    padding: 50px;
+    border-radius: 40px;
+    background-color: #ff9ff3;
+
+
+}
+.child-class{
+    display: flex;
+    justify-content: end;
+
+}
